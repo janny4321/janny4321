@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hello i'm Jane
 
 <!--
 **janny4321/janny4321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
